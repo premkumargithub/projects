@@ -1,0 +1,132 @@
+[{
+ "name": "Australian Dollar",
+ "code": "AUD",
+ "supported": true,
+ "symbol": "$"
+}, {
+ "name": "Brazilian Real",
+ "code": "BRL",
+ "options": "localonly",
+ "supported": true,
+ "symbol":"R$"
+}, {
+ "name": "Canadian Dollar",
+ "code": "CAD",
+ "supported": true,
+ "symbol":"$"
+}, {
+ "name": "Czech Koruna",
+ "code": "CZK",
+ "supported": true,
+ "symbol":"Kč"
+}, {
+ "name": "Danish Krone",
+ "code": "DKK",
+ "supported": true,
+ "symbol": "kr"
+}, {
+ "name": "Euro",
+ "code": "EUR",
+ "supported": true,
+ "symbol":"€"
+}, {
+ "name": "Hong Kong Dollar",
+ "code": "HKD",
+ "supported": true,
+ "symbol":"HK$"
+}, {
+ "name": "Hungarian Forint",
+ "code": "HUF",
+ "options": "nodecimal",
+ "supported": true,
+ "symbol":"Ft"
+}, {
+ "name": "Israeli New Sheqel",
+ "code": "ILS",
+ "supported": true,
+ "symbol":"\u20aa"
+}, {
+ "name": "Japanese Yen",
+ "code": "JPY",
+ "options": "nodecimal",
+ "supported": true,
+ "symbol": "\u00a5"
+}, {
+ "name": "Malaysian Ringgit",
+ "code": "MYR",
+ "options": "localonly",
+ "supported": true,
+ "symbol":"RM"
+}, {
+ "name": "Mexican Peso",
+ "code": "MXN",
+ "supported": true,
+ "symbol": "$"
+}, {
+ "name": "New Zealand Dollar",
+ "code": "NZD",
+ "supported": true,
+ "symbol":"$"
+}, {
+ "name": "Norwegian Krone",
+ "code": "NOK",
+ "supported": true,
+ "symbol":"kr"
+}, {
+ "name": "Philippine Peso",
+ "code": "PHP",
+ "supported": true,
+ "symbol":"\u20b1"
+}, {
+ "name": "Polish Zloty",
+ "code": "PLN",
+ "supported": true,
+ "symbol":"zł"
+}, {
+ "name": "Pound Sterling",
+ "code": "GBP",
+ "supported": true,
+ "symbol":"£"
+}, {
+ "name": "Russian Ruble",
+ "code": "RUB",
+ "supported": true,
+ "symbol":"руб"
+}, {
+ "name": "Singapore Dollar",
+ "code": "SGD",
+ "supported": true,
+ "symbol":"$"
+}, {
+ "name": "Swedish Krona",
+ "code": "SEK",
+ "supported": true,
+ "symbol":"kr"
+}, {
+ "name": "Swiss Franc",
+ "code": "CHF",
+ "supported": true,
+ "symbol":"CHF"
+}, {
+ "name": "Taiwan New Dollar",
+ "code": "TWD",
+ "options": "nodecimal",
+ "supported": true,
+ "symbol":"NT$"
+}, {
+ "name": "Thai Baht",
+ "code": "THB",
+ "supported": true,
+ "symbol":"฿"
+}, {
+ "name": "Turkish Lira",
+ "code": "TRY",
+ "options": "localonly",
+ "supported": true,
+ "symbol":"\u20ba"
+}, {
+ "name": "U.S. Dollar",
+ "code": "USD",
+ "supported": true,
+ "symbol":"$"
+} ]

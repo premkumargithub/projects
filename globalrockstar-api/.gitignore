@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+.idea
+.sublime*
+.DS_Store
+
+_legacy
+docs
+checkstyle-reports

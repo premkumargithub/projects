@@ -1,0 +1,164 @@
+[
+    {
+        "slug": "physical_album",
+        "name": "Physical Album",
+        "price_range": {
+            "min": 12,
+            "max": 20
+        },
+        "shipping_included": true
+    },
+    {
+        "slug": "signed_album",
+        "name": "Handwritten lyrics",
+        "price_range": {
+            "min": 30,
+            "max": 150
+        },
+        "shipping_included": true
+    },
+    {
+        "slug": "vinyl_album",
+        "name": "Album on vinyl",
+        "price_range": {
+            "min": 18,
+            "max": 30
+        },
+        "shipping_included": true
+    },
+    {
+        "slug": "signed_vinyl_album",    
+        "name": "Signed album on vinyl",
+        "price_range": {
+            "min": 20,
+            "max": 40
+        },
+        "shipping_included": true
+    },
+    {
+        "slug": "signed_poster",    
+        "name": "Signed Poster",
+        "price_range": {
+            "min": 8,
+            "max": 15
+        },
+        "shipping_included": true
+    },
+    {
+        "slug": "concert_ticket",
+        "name": "Concert Ticket",
+        "price_range": {
+            "min": 15,
+            "max": 30
+        },
+        "shipping_included": true
+    },
+    {
+        "slug": "t_shirt",
+        "name": "T-Shirt",
+        "price_range": {
+            "min": 20,
+            "max": 40
+        },
+        "shipping_included": true
+    },
+    {
+        "slug": "signed_t_shirt",
+        "name": "Signed T-Shirt",
+        "price_range": {
+            "min": 30,
+            "max": 60
+        },
+        "shipping_included": true
+    },
+    {
+        "slug": "skype_meeting",
+        "name": "Skype meet & greet",
+        "price_range": {
+            "min": 30,
+            "max": 60
+        },
+        "shipping_included": false
+    },
+    {
+        "slug": "live_meeting",
+        "name": "Real life meet & greet",
+        "price_range": {
+            "min": 100,
+            "max": 250
+        },
+        "shipping_included": false
+    },
+    {
+        "slug": "aftershow_party",
+        "name": "Aftershow Party with the Band",
+        "price_range": {
+            "min": 100,
+            "max": 2500
+        },
+        "shipping_included": false
+    },
+    {
+        "slug": "song_for_you",
+        "name": "A song for you",
+        "price_range": {
+            "min": 500,
+            "max": 2500
+        },
+        "shipping_included": false
+    },
+    {
+        "slug": "private_concert",
+        "name": "Private Concert",
+        "price_range": {
+            "min": 1000,
+            "max": 2500
+        },
+        "shipping_included": false
+    },
+    {
+        "slug": "lifetime_guestlist",    
+        "name": "Lifetime membership on bands guestlist",
+        "price_range": {
+            "min": 1000,
+            "max": 2500
+        },
+        "shipping_included": false
+    },
+    {
+        "slug": "signed_instrument",    
+        "name": "Signed Instrument",
+        "price_range": {
+            "min": 250,
+            "max": 2500
+        },
+        "shipping_included": false
+    },
+    {
+        "slug": "executive_producer_credit",    
+        "name": "Executive Producer Credit",
+        "price_range": {
+            "min": 500,
+            "max": 2500
+        },
+        "shipping_included": false
+    },
+    {
+        "slug": "music_video_credit",    
+        "name": "Music Video Credit",
+        "price_range": {
+            "min": 500,
+            "max": 2500
+        },
+        "shipping_included": false
+    },
+    {
+        "slug": "music_lesson",    
+        "name": "Music Lesson",
+        "price_range": {
+            "min": 75,
+            "max": 100
+        },
+        "shipping_included": false
+    }
+]
